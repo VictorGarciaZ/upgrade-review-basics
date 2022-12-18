@@ -1,5 +1,4 @@
-/* 
-**Iteración #1: Mix for e includes**
+/**Iteración #1: Mix for e includes**
 
 Dado el siguiente javascript usa forof para recorrer el array de películas, enera un nuevo array con las categorías de las películas 
 e imprime por consola el array de categorías. Ten en cuenta que las categorías no deberían repetirse. 
@@ -11,6 +10,7 @@ const movies = [
     { title: 'Solo en Whatsapp', duration: 223, categories: ['comedia', 'thriller'] },
     { title: 'El gato con guantes', duration: 111, categories: ['comedia', 'aventura', 'animación'] },
 ]
+
 
 const categories = [];
 
